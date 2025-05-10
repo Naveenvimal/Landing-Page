@@ -175,6 +175,8 @@ section.team .team-cont .team-it img {
 }
 section.team .team-cont .team-it p {
   margin-bottom: 10px;
+   background-image: url(../images/dbcol.png);
+   background-repeat: no-repeat;
 }
 section.team .team-cont .team-it:nth-child(odd) {
   padding: 0 15%;
